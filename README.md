@@ -25,6 +25,7 @@ Michael Ying Yang<sup>4</sup>, Francesco Nex<sup>1</sup>, Hao Cheng<sup>1</sup>
 
 ## News
 
+- **November 9th, 2026:** The code has migrated to the new repository [xiaomi-research/universe](https://github.com/xiaomi-research/universe). Stars are welcome!
 - **November 9th, 2026:** The UNIVERSE code is now open-sourced on GitHub.
 - **September 25th, 2026:** UNIVERSE is accepted by NeurIPS 2026.
 - **July 6th, 2026:** UNIVERSE is released on [arXiv](https://arxiv.org/abs/2607.05133).
